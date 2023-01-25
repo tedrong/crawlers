@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# selenium browser driver binary
+chromedriver
+
+# .crt
+*.crt
